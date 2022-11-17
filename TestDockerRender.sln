@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDockerRender", "TestDoc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{18E24CB1-24CC-4A32-839D-E9FF10FE05C9}"
 	ProjectSection(SolutionItems) = preProject
-		TestDockerRender\Dockerfile = TestDockerRender\Dockerfile
+		Dockerfile = Dockerfile
 	EndProjectSection
 EndProject
 Global
